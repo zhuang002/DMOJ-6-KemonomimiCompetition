@@ -1,7 +1,7 @@
 # DMOJ-6-KemonomimiCompetition
 
 Problem URL:
-    
+    https://dmoj.ca/problem/dmopc15c7p1
     
 Test Status:
     
